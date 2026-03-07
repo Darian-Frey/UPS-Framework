@@ -39,6 +39,7 @@ By identifying "Stability Walls" in the **Anschütz-Drinfeld Prismatic Stack**, 
 Whether in geometry or complexity, we utilize the universal stability filter:
 $$\Delta_{pris} = \max(0, \text{Complexity Weight} - \text{Stability Threshold})$$
 For the partition $\lambda = (n-8, 3, 2, 2, 1, 1)$, $\Delta_{pris} = 1.0$, classifying it as a **Prismatic Ghost** for the P-class.
+
 ---
 
 ## 📁 Repository Structure
