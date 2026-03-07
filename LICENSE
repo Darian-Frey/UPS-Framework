@@ -1,0 +1,30 @@
+# UPS-Framework License Agreement
+
+The UPS-Framework (Universal Prismatic Stability) is a dual-licensed project to ensure the protection of theoretical breakthroughs and the flexibility of numerical tools.
+
+## 1. Software & Numerical Tools
+All code in this repository, including but not limited to `kronecker_stability_check.py` and any Lean 4 formalizations, is licensed under the **Apache License, Version 2.0** (the "License").
+
+You may obtain a copy of the License at:
+http://www.apache.org/licenses/LICENSE-2.0
+
+### Key Terms:
+* **Attribution:** You must give appropriate credit to Shane Hartley.
+* **Patent Grant:** This license provides an explicit grant of patent rights from contributors to users.
+* **Liability:** The software is provided "AS IS," without warranties of any kind.
+
+---
+
+## 2. Theoretical Documentation & Proofs
+All documentation, proof outlines, and theoretical frameworks located in the `docs/` and `research/` directories (excluding raw code) are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+
+### Key Terms:
+* **Attribution:** You must credit Shane Hartley as the Lead Architect and provide a link to the original UPS-Framework repository.
+* **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+* **No Additional Restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+**Lead Architect:** Shane Hartley  
+**Date:** March 2026  
+**Archive Ref:** REF_LICENSE_V1_2026
