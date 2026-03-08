@@ -5,6 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Hodge_&_P_vs_NP_Resolved-success.svg)](#)
 [![Lead](https://img.shields.io/badge/Lead_Architect-Shane_Hartley-blue.svg)](#)
 [![Validation](https://img.shields.io/badge/Verification-n=20_Asymptotic_Stable-green.svg)](#)
+[![DOI](https://zenodo.org/badge/1175550892.svg)](https://doi.org/10.5281/zenodo.18911753)
 
 ## 🌌 Overview
 
